@@ -62,6 +62,10 @@ Both BLoCs include error states to handle API failures or other exceptions. When
 
 ![Demo Video](https://github.com/achiit/siyatechnews/blob/main/assets/appimages/demo.gif)
 
+### Demo App
+
+The demo application can be downloaded from the release section in github
+
 ## Getting Started
 
 To run this project:

@@ -1,8 +1,8 @@
 // lib/blocs/hacker_news_bloc/hacker_news_bloc.dart
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:newsapp/blocs/news_event.dart';
-import 'package:newsapp/blocs/news_state.dart';
+import 'package:newsapp/screens/newsscreen/blocs/news_event.dart';
+import 'package:newsapp/screens/newsscreen/blocs/news_state.dart';
 import 'package:newsapp/models/news_model.dart';
 import 'package:newsapp/services/new_service.dart';
 
